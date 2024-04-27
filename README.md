@@ -2,15 +2,15 @@
 <h4 align="center">Простая программа для расслабления</h4>
 
 <h1 align="center">
-    <img src="https://i.ibb.co/Sc5mL1G/Screenshot-141.png">
+    <img src="https://ibb.org.ru/images/2024/04/27/image.png">
 </h>
 
-<h2 align="center">Перед началом настоятельно рекомендую залететь в наш <a href="https://t.me/funpayplace">Telegram чат</a> и <a href="https://dsc.gg/funpay">Discord сервер</a>. Тут и поможем чем сможем и посидеть можно.</h2>
+<h2 align="center">Перед началом настоятельно рекомендую залететь в наш <a href="https://t.me/the_pups_developers">Telegram чат</a>. Там можно узнать о обновлениях.</h2>
 
 ## :clipboard: **Содержание**
 
 - [Возможности](#robot-возможности)
-  - [FunPay](#shopping_cart-funpay)
+  - [FunPay](#shopping_cart-pyton)
   - [Уведомления и ПУ в Telegram](#left_speech_bubble-уведомления-и-пу-в-telegram)
   - [Дополнительные возможности](#gear-дополнительные-возможности)
 
@@ -28,7 +28,7 @@
 
 ## :robot: **Возможности**
 
-### :shopping_cart: **FunPay**
+### :shopping_cart: **Python**
 
 - Автовыдача товаров.
 - Автоподнятие лотов.
